@@ -1,4 +1,5 @@
 node {
+  // Jenkins multibranch file
   def mvnHome
   def pom
   def artifactVersion
